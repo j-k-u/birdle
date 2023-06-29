@@ -1,0 +1,3 @@
+Download LOVE2D at https://love2d.org/#download
+run "birdle.love" or use command line: 
+> love birdle.love

@@ -1,0 +1,4 @@
+word lists from Word Master by octokatharine https://github.com/octokatherine/word-master
+bird game framework from https://simplegametutorials.github.io/love/bird/
+LOVE2D basics from https://sheepolution.com/learn/book/contents
+Fonts: OpenSans and NotoSansMono
